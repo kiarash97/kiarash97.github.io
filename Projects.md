@@ -28,10 +28,23 @@ title: Projects
   
 #### Course Projects
 
-* email: 
-  - [kasirikiarash@gmail.com](kasirikiarash@gmail.com)
-  - [aghakasi@ualberta.com](aghakasi@ualberta.com)
-  - [kiarash_aghakasiri@comp.iust.ac.ir](kiarash_aghakasiri@comp.iust.ac.ir)
+* Computational Intelligence: 
+  - Solving Inverted Pendulum problem with Fuzzy Logic and Reinforcement Learning
+  - Multi Layer Perceptron for MNIST Dataset with Keras, Numpy
+  - Function Approximation with MLP and RBF Networks
+  - Genetic Algorithm for N-Queen problem
+* Natural Language Processing: 
+  - Machine Translation for Poetry to Prose and vice versa using OpenNMT
+  - Sentiment Analysis (for tweets that have #worldcup) using AFINN
+  - Classifying speeches of two famous persian politicians (Naive Bayes and Maximum Entropy)
+* Artificial Intelligence and Expert Systems:
+  - Face Recognition for LFW (Labeled Face in the Wild) dataset using OpenCV
+* Advanced Computer Programming
+  - Prototype of Social Network Website with comment, like, and post abilities qith Python
+  - Web Scraper and Search Engine using Scrapy
+  - File Manager with Python
+  
+
 
 
 
