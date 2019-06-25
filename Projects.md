@@ -1,28 +1,33 @@
 ---
 layout: page
-title: Publications
+title: Projects
 
 ---
 
-### Projects in M.S
-  will be added soon !
-  
-### Projects in B.Sc
+#### Research Interest
+* Machine Learning / Deep Learning/ Reinforcement Learning
+* Computer Vision
+* Natural Language Processing
+* Data Mining / Bioinformatics
 
-#### B.Sc Thesis Topic:
-  * Hi
+#### Academic Background
+
+* M.S in Computing Science (Expected September 2019)
+  - I am joining the Department of Computing Science at the University of Alberta from Fall 2019 as a master student
   
-#### Extra Projects:
+* B.Sc in Computer Engineering (September 2015 - Expected July 2019)
+  - I have almost finished my undergraduate education in Computer Engineering in Iran University of Science and Technology
   
-  * 1
-  * 2
+* Pre-University and High School (September 2008 - June 2015)
+  - I have studied in Allameh-Helli (NODET) school, National Organization for Development of Exceptional Talent
+
   
-#### Course Projects:
-  
-  * 1
-    - hi 
-    - hey
-  * 2
-    - hi 
-    - hey
- 
+#### Contact Information
+
+* email: 
+  - [kasirikiarash@gmail.com](kasirikiarash@gmail.com)
+  - [aghakasi@ualberta.com](aghakasi@ualberta.com)
+  - [kiarash_aghakasiri@comp.iust.ac.ir](kiarash_aghakasiri@comp.iust.ac.ir)
+
+
+
