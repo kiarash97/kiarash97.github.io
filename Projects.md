@@ -4,6 +4,11 @@ title: Projects
 
 ---
 
+### M.S Projects
+  Will be added soon !
+
+### B.Sc Projects
+
 #### Thesis Project
 * Machine Learning / Deep Learning/ Reinforcement Learning
 * Computer Vision
