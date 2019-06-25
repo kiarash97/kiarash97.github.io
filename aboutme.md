@@ -11,11 +11,14 @@ title: About me
 * Data Mining / Bioinformatics
 
 ## Academic Background
-* B.Sc
-  I have almost finished my under-graduate education in Computer Engineering in Iran University of Science and Technology
-  
+
 * M.S
-  I am joinging the Department of Computing Science in University of Alberta from Fall 2019 as a master student.
+  - I am joinging the Department of Computing Science in University of Alberta from Fall 2019 as a master student
+* B.Sc
+  - I have almost finished my under-graduate education in Computer Engineering in Iran University of Science and Technology
+* Pre-University and High School
+  - I have studied in Allameh-Helli (NODET) school, National Organization for Development of Exceptional Talent
+
   
 ## Contact Information
 
