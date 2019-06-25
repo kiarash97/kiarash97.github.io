@@ -16,6 +16,10 @@ title: Projects
   
   ![Drag Racing](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000361510_result%20(1).jpg)
   ![Hi](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg)
+  
+  {% include image.html url="/img/COCO_test2014_000000361510_result%20(1).jpg" description="My cat, Robert Downey Jr." %}
+
+
 
 #### Research Projects
 * Research on using Transfer Learning for hasten the converge time of Reinforcement Learning for ATARI games (June 2018 - October 2018)
