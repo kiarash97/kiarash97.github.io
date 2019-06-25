@@ -19,8 +19,9 @@ title: About me
   
 ## Contact Information
 
-email: kasirikiarash@gmail.com
-       aghakasi@ualberta.com
+email: 
+  -kasirikiarash@gmail.com
+  -aghakasi@ualberta.com
 
 
 
