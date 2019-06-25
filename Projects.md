@@ -8,18 +8,20 @@ title: Publications
   will be added soon !
   
 ### Projects in B.Sc
+
   #### B.Sc Thesis Topic:
+  
   * Hi
   #### Extra Projects:
+  
   * 1
   * 2
+  
   #### Course Projects:
-  *1
-    -
-    -
-  *2
-    -
-    -
-  *3
-    -
-    -
+  * 1
+    - hi 
+    - hey
+  * 2
+    - hi 
+    - hey
+ 
