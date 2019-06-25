@@ -10,20 +10,19 @@ title: Publications
 ### Projects in B.Sc
 
   #### B.Sc Thesis Topic:
-  
-  * Hi
+    * Hi
   
   #### Extra Projects:
   
-  * 1
-  * 2
+    * 1
+    * 2
   
   #### Course Projects:
   
-  * 1
-    - hi 
-    - hey
-  * 2
-    - hi 
-    - hey
+    * 1
+      - hi 
+      - hey
+    * 2
+      - hi 
+      - hey
  
