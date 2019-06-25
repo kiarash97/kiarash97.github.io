@@ -14,9 +14,9 @@ title: Projects
   - I worked with another B.Sc student on my thesis project. We use MSCoCo dataset for image captioning and translated captions into Persion, as there is no dataset for this problem in Persian (We will publish the dataset soon). Then we use [Show, Attend, Model: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf) model, then we used a [Tensorflow implementation](https://github.com/coldmanck/show-attend-and-tell) with some modifications. We trained the model on Google Colaboratory GPU. You can view the Jupyter nootebook file here. [(Google Colab view only link)](https://colab.research.google.com/drive/1GkhnZKpJYxxHiSigBcdKFyIv8WdYYQ_n). Here is a good and a bad result:
   
   
-  ![](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000361510_result%20(1).jpg)
-  ![](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg)
-The upper one means :
+  ![boat](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000361510_result%20(1).jpg "hi")
+  ![elephant](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg "hi")
+
 
 
 
