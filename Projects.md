@@ -18,7 +18,7 @@ title: Projects
   ![Hi](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg)
   
   
-  {%include image.html url="https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg" description="My cat, Robert Downey Jr." %}
+  {include image.html url="https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg" description="My cat, Robert Downey Jr."}
 
 
 
