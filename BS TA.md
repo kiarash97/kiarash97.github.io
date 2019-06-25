@@ -4,7 +4,7 @@ I was being among the TAs in many courses during my bachelor's education. The li
 * __Foundation of Computer and Programming__ 
   - (September 2016 - January 2017)
   - Instructor : Dr. Adel Torkaman Rahmani 
-* __Theory of Computational and Automata
+* __Theory of Computational and Automata__
   - (September 2017 - January 2018)
   - Instructor : Dr. Hossein Rahmani 
 * __[Artificial Intelligence and Expert Systems](https://iust-courses.github.io/ai97/)__ 
