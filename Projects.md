@@ -16,7 +16,7 @@ title: Projects
   
   ![boat](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000361510_result%20(1).jpg "hi")
   ![elephant](https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg "hi")
-
+<img src="https://github.com/kiarash97/kiarash97.github.io/blob/master/img/COCO_test2014_000000057029_result%20(1).jpg" width="800" />
 
 
 
