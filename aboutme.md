@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Research Interest
+* Machine Learning / Deep Learning/ Reinforcement Learning
+* Computer Vision
+* Natural Language Processing
+* Data Mining / Bioinformatics
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Academic Background
+* B.Sc
+  I have almost finished my under-graduate education in Computer Engineering in Iran University of Science and Technology
+  
+* M.S
+  I am joinging the Department of Computing Science in University of Alberta from Fall 2019 as a master student.
+  
+## Contact Information
 
-What else do you need?
+email: kasirikiarash@gmail.com
+       aghakasi@ualberta.com
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
