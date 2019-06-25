@@ -24,10 +24,10 @@ title: About me
   
 #### Contact Information
 
-email: 
- * [kasirikiarash@gmail.com](kasirikiarash@gmail.com)
- * [aghakasi@ualberta.com](aghakasi@ualberta.com)
- * [kiarash_aghakasiri@comp.iust.ac.ir](kiarash_aghakasiri@comp.iust.ac.ir)
+*email: 
+ - [kasirikiarash@gmail.com](kasirikiarash@gmail.com)
+ - [aghakasi@ualberta.com](aghakasi@ualberta.com)
+ - [kiarash_aghakasiri@comp.iust.ac.ir](kiarash_aghakasiri@comp.iust.ac.ir)
 
 
 
