@@ -4,13 +4,13 @@ title: About me
 
 ---
 
-## Research Interest
+#### Research Interest
 * Machine Learning / Deep Learning/ Reinforcement Learning
 * Computer Vision
 * Natural Language Processing
 * Data Mining / Bioinformatics
 
-## Academic Background
+#### Academic Background
 
 * M.S in Computing Science (Expected September 2019)
   - I am joinging the Department of Computing Science at University of Alberta from Fall 2019 as a master student
@@ -22,7 +22,7 @@ title: About me
   - I have studied in Allameh-Helli (NODET) school, National Organization for Development of Exceptional Talent
 
   
-## Contact Information
+#### Contact Information
 
 email: 
  * [kasirikiarash@gmail.com](kasirikiarash@gmail.com)
