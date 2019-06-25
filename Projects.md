@@ -4,14 +4,13 @@ title: Projects
 
 ---
 
-#### Research Interest
+#### Thesis Project
 * Machine Learning / Deep Learning/ Reinforcement Learning
 * Computer Vision
 * Natural Language Processing
 * Data Mining / Bioinformatics
 
-#### Academic Background
-
+#### Extra-Curriculum Projects
 * M.S in Computing Science (Expected September 2019)
   - I am joining the Department of Computing Science at the University of Alberta from Fall 2019 as a master student
   
@@ -22,7 +21,7 @@ title: Projects
   - I have studied in Allameh-Helli (NODET) school, National Organization for Development of Exceptional Talent
 
   
-#### Contact Information
+#### Course Projects
 
 * email: 
   - [kasirikiarash@gmail.com](kasirikiarash@gmail.com)
