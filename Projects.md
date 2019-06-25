@@ -12,12 +12,14 @@ title: Publications
   #### B.Sc Thesis Topic:
   
   * Hi
+  
   #### Extra Projects:
   
   * 1
   * 2
   
   #### Course Projects:
+  
   * 1
     - hi 
     - hey
