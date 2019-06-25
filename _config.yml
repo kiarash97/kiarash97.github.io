@@ -91,7 +91,6 @@ share-links-active:
 #   facebook: true
 #   linkedin: true
     github: true
-    gmail: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
