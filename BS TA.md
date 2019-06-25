@@ -1,4 +1,8 @@
-# My Teaching Assistantship History in B.Sc
+---
+layout: page
+title: My Teaching Assistantship History in B.Sc
+
+---
 I was being among the TAs in many courses during my bachelor's education. The list is below:
 
 * __Computational Intelligence__
