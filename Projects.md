@@ -10,10 +10,8 @@ title: Projects
 ### B.Sc Projects
 
 #### Thesis Project
-* Machine Learning / Deep Learning/ Reinforcement Learning
-* Computer Vision
-* Natural Language Processing
-* Data Mining / Bioinformatics
+* Image Captioning for Translated MSCoCo Dataset
+hi
 
 #### Research Projects
 * Research on using Transfer Learning for hasten the converge time of Reinforcement Learning for ATARI games (June 2018 - October 2018)
