@@ -29,7 +29,8 @@ The upper one means "an elephant in an captured area in a zoo" and the bottom on
   - I am working with a M.S student on her Master thesis topic which is Hashtag recommendation. After the studying related works phase, I scrapped twitter data using Twint module whith Python. Then we are going to implement a word embedding and build a graph for words and hashtags in tweets and then use graph mining methods to find clusters of tweets. We will use this clusters for Hashtag recommending.
 
 * Analysing of Persian Word Association using Cognitive Science (January 2018 - June 2018)
-  -  My second project in the Data Mining Laboratory was Persian Word Association supervised by Dr Hossein Rahmani. I worked with two B.Sc students and one M.S student on this project. We gathered a dataset with developing a survey website and analysing the results and eventually published the dataset.
+  -  My second project in the Data Mining Laboratory was Persian Word Association supervised by Dr Hossein Rahmani. I worked with two B.Sc students and one M.S student on this project. We gathered a dataset with developing a survey website and analysing the results and eventually published the dataset. Here is a sample graph of Persian word associations:
+  ![tarvajeh](https://i.ibb.co/2njwDKG/tarvajeh.png)
   
 * Fraud Detection (January 2016 - April 2016)
   -  My first project as I have join the Data Mining Laboratory was on Fraud Detection for German Bank Dataset supervised by Dr Hossein Rahmani. The goal was to fit the best model in order to classify people into two classes of trustworthy and untrurstworthy. The best model was SVM with more than 91% accuracy and I use decision tree for visualization the model. Here is the result of SVM model:
