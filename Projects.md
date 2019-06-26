@@ -32,7 +32,8 @@ The upper one means "an elephant in an captured area in a zoo" and the bottom on
   -  My second project in the Data Mining Laboratory was Persian Word Association supervised by Dr Hossein Rahmani. I worked with two B.Sc students and one M.S student on this project. We gathered a dataset with developing a survey website and analysing the results and eventually published the dataset.
   
 * Fraud Detection (January 2016 - April 2016)
-  -  My first project as I have join the Data Mining Laboratory was on Fraud Detection for German Bank Dataset supervised by Dr Hossein Rahmani. The goal was to fit the best model in order to classify people into two classes of trustworthy and untrurstworthy. The best model was SVM with more than 91% accuracy and I use decision tree for visualization the model.
+  -  My first project as I have join the Data Mining Laboratory was on Fraud Detection for German Bank Dataset supervised by Dr Hossein Rahmani. The goal was to fit the best model in order to classify people into two classes of trustworthy and untrurstworthy. The best model was SVM with more than 91% accuracy and I use decision tree for visualization the model. Here is the result of SVM model:
+ ![svm](https://i.ibb.co/MBN6THs/SVM.png)
 
   
 #### Course Projects
