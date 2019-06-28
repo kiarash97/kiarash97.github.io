@@ -26,7 +26,7 @@ navbar-links:
     - M.S (UAlberta) : "MS TA"
   Personal Achievements: "achievements"
   Publication: "publication"
-  About Me: "aboutme"
+  About Me / Contact: "aboutme"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
