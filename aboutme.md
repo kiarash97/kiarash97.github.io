@@ -32,3 +32,7 @@ title: About me
 
 #### Resume
 * you can download my [CV](https://github.com/kiarash97/kiarash97.github.io/blob/master/CV.pdf) here
+
+
+#### Recreational Activities
+* I love swimming, going to gym, and playing piano
